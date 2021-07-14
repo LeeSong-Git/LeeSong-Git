@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LeeSong-Git
-- 👀 I’m interested in .net/vue/javascript/html/css
+- 👀 I’m interested in .net/vue/javascript/html/css/java
 - 🌱 I’m currently learning vue/microservices/wcf/webapi
 - 💞️ I’m looking to collaborate on here
 - 📫 reach me:438713061@qq.com
